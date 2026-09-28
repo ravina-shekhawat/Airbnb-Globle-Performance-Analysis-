@@ -41,5 +41,6 @@ This project helped me become more familiar with the **Power BI interface and it
 
 Screenshot : 
 https://github.com/ravina-shekhawat/Airbnb-Globle-Performance-Analysis-/blob/main/Airbnb%20Photo1.png
+https://github.com/ravina-shekhawat/Airbnb-Globle-Performance-Analysis-/blob/main/airbnb%20photo2.png
 
 
