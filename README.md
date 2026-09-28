@@ -40,7 +40,7 @@ Through this project, I practiced:
 This project helped me become more familiar with the **Power BI interface and its features**, which I can now build upon with my own analysis and projects.
 
 Screenshot : 
-https://github.com/ravina-shekhawat/Airbnb-Globle-Performance-Analysis-/blob/main/Airbnb%20Photo1.png
-https://github.com/ravina-shekhawat/Airbnb-Globle-Performance-Analysis-/blob/main/airbnb%20photo2.png
+![Dashboard First Page Preview ](https://github.com/ravina-shekhawat/Airbnb-Globle-Performance-Analysis-/blob/main/Airbnb%20Photo1.png)
+![Dashboard Second Page Preview](https://github.com/ravina-shekhawat/Airbnb-Globle-Performance-Analysis-/blob/main/airbnb%20photo2.png)
 
 
